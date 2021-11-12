@@ -17,12 +17,22 @@ I started yoga from Sept.,2021, following the group courses like "Yoga Flow" in 
 
 ### Muay Thai Mixed
 
-Thanks for Adrian G. and Aysha M.A.'s generous help, I also started some boxing since Sept., 2021. Martial arts are something I have never experienced before, I learned so much about balancing, emotion control, self-defence and strategic competition at Nydalen.
+Thanks for **Adrian G.** and **Aysha M.A.**'s generous help, I also started some boxing since Sept., 2021. Martial arts are something I have never experienced before, I learned so much about balancing, emotion control, self-defence and strategic competition at Nydalen.
+
+## Then, the boring parts of me
+I am a master student in University of Oslo, majoring in Economics(research path). I also do some programming...that's why I came to this wierd website and created this page...
 ```python3
+% My coding level
 print("I don't like programming.")
 
 ```
+```matlab
+dynare your.mod
 
+```
+
+## Boring but useful part
+I will keep this section since I always forget how to write markedown.
 ```markdown
 Syntax highlighted code block
 
@@ -43,10 +53,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tintinji/tintinji.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
