@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Tintin's Adventures
 
-You can use the [editor on GitHub](https://github.com/Tintinji/tintinji.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Let's first start with some cool things~
+This is Tintin, also 纪广远 in mandarin 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
