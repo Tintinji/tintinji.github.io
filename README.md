@@ -32,7 +32,7 @@ dynare your.mod
 ```
 
 ## Boring but useful part
-I will keep this section since I always forget how to write markedown.
+I will keep this section since I always forget how to write markdown.
 ```markdown
 Syntax highlighted code block
 
