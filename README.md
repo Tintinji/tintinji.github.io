@@ -1,10 +1,18 @@
 # Welcome to Tintin's Adventures
 
-## Let's first start with some cool things~
-This is Tintin, also 纪广远 in mandarin. I am a fun-driven guy, constantly exploring new areas and places...exploiting as well since I knew about RL^.^.
+## About Me
+This is Tintin. I am a fun-driven PhD candidate in [BI](https://bi.no/), Norway. I love Mauy Thai boxing, yoga and snowboarding. 
 
-### Snowboarding
-My hometown is Harbin, China. It's a pretty cool, actually cold, place with lots of snow. I didn't start snowboarding early from childhood...at that time, I was just playing around and preparing for the Gaokao later on. My first snowboarding experience dates back to February of 2018, or 2017? During the winter holiday in my college life, I hung out with my childhood mates in Nianzishan, Qiqihar, Heilongjiang, China. <br/>
+## Education
+- PhD research fellow, Department of Economics, [BI](https://bi.no/) 2022.08 - Nå
+- Master in Economics, [University of Oslo](https://www.uio.no), 2020.08 - 2022.06
+- Gap Year, [Working Holiday in New Zealand](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa), 2019.12 - 2020.12
+- Bachelor in Economics, [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), 2015.09 - 2019.06
+
+## Snowboarding
+My hometown is Harbin, China. It's a pretty cool, actually cold, place with lots of snow. I started my snowboarding in my college years, maybe from 2017. During my gap year in New Zealand, I stayed in [Wānaka](https://www.lakewanaka.co.nz/about-wanaka/) for about two months and had great fun there. There are mountains like 
+
+
 Then I spent my first entire season in Wanaka, NZ, in the chaos of 2020. It's one of the best memories of my Gap Year in New Zealand. I moved to Oslo, Norway in the beginning of 2021. It's really amazing to take a T-bane and transfer to bus 48 to get to Tryvann Vinterpark from city center in just an hour! That's the best part of Oslo in my perspective.
 
 ### Photography
